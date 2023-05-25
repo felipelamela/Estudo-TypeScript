@@ -18,3 +18,6 @@ arquivo tsconfig.js
 "noEmitOnError" (não ira compilar o codigo caso tenha um erro)
 
 
+const valor: Array <Tipo generico> = new Array
+Array <Number > -> é uma lista que pode receber apenas numero
+a <Generics> Recebe qualquer parametro, que será o tipo de dado que a Array vai receber
